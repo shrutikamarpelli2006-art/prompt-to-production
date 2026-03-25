@@ -1,0 +1,16 @@
+complaint_id,category,priority,reason,flag
+AM-202401,Road Damage,Standard,Complaint categorized as 'Road Damage' due to keyword(s) 'tar'; priority set to 'Standard'.,
+AM-202402,Heat Hazard,Standard,Complaint categorized as 'Heat Hazard' due to keyword(s) 'temperature'; priority set to 'Standard'.,
+AM-202405,Other,Standard,Complaint categorized as 'Other' (no specific keyword matched); priority set to 'Standard'.,NEEDS_REVIEW
+AM-202406,Heat Hazard,Standard,Complaint categorized as 'Heat Hazard' due to keyword(s) 'heat'; priority set to 'Standard'.,
+AM-202407,Other,Urgent,Complaint categorized as 'Other' (no specific keyword matched); priority set to 'Urgent' because description contains 'child'.,NEEDS_REVIEW
+AM-202410,Pothole,Standard,Complaint categorized as 'Pothole' due to keyword(s) 'pothole'; priority set to 'Standard'.,
+AM-202414,Other,Standard,Complaint categorized as 'Other' (no specific keyword matched); priority set to 'Standard'.,NEEDS_REVIEW
+AM-202417,Waste,Standard,Complaint categorized as 'Waste' due to keyword(s) 'waste'; priority set to 'Standard'.,
+AM-202421,Noise,Standard,Complaint categorized as 'Noise' due to keyword(s) 'music'; priority set to 'Standard'.,
+AM-202424,Other,Standard,Complaint categorized as 'Other' (no specific keyword matched); priority set to 'Standard'.,NEEDS_REVIEW
+AM-202429,Heat Hazard,Standard,Complaint categorized as 'Heat Hazard' due to keyword(s) 'temperature'; priority set to 'Standard'.,
+AM-202431,Heritage Damage,Standard,"Complaint categorized as 'Heritage Damage' due to keyword(s) 'heritage', 'ancient'; priority set to 'Standard'.",
+AM-202435,Heat Hazard,Standard,Complaint categorized as 'Heat Hazard' due to keyword(s) 'heat'; priority set to 'Standard'.,
+AM-202444,Flooding,Standard,Complaint categorized as 'Flooding' due to keyword(s) 'overflow'; priority set to 'Standard'.,
+AM-202445,Heat Hazard,Standard,Complaint categorized as 'Heat Hazard' due to keyword(s) 'sun'; priority set to 'Standard'.,
